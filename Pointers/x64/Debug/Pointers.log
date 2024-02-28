@@ -1,0 +1,43 @@
+﻿  PTR5.cpp
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(18,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(25,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(25,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(27,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(27,9):
+  consider using '%zd' in the format string
+  
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(28,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(28,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(30,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'char *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(30,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'char *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(32,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(32,9):
+  consider using '%zd' in the format string
+  
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(33,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int **'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(33,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int **'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(34,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(34,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(36,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(36,9):
+  consider using '%zd' in the format string
+  
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(37,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int **'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(37,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int **'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(38,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(38,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(43,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(43,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(45,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int (*)[5]'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(45,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int (*)[5]'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(47,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(47,9):
+  consider using '%zd' in the format string
+  
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(48,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'float *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(48,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'float *'
+C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(50,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\Pointers\PTR5.cpp(50,9):
+  consider using '%zd' in the format string
+  
+  Pointers.vcxproj -> C:\Users\dzaka\Documents\_POLBAN\SEMESTER 2\SDA\02\Pointers\x64\Debug\Pointers.exe
